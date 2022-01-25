@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="wx_camera_both">单击拍照，长按摄像</string>
+    <string name="wx_camera_only_capture">单击拍照</string>
+    <string name="wx_camera_only_recorder">长按摄像</string>
+
+</resources>
